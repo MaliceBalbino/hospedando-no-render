@@ -1,0 +1,69 @@
+ 
+ { 
+ "mesas": [
+    { "número": 111, "clienteId": 1, "id":1, "andar": 1 },
+    { "número": 222, "clienteId": 2, "id":1, "andar": 2 },
+    { "número": 333, "clienteId": 3, "id":1, "andar": 3 },
+    { "número": 444, "clienteId": 4, "id":1, "andar": 4 }
+ ],
+   
+ "funcionarios": [
+
+    { "nome": "Maria Alice", "cargo": "gerente", "id":1010, "salário": 10000}, 
+
+    { "nome": "Marisa", "cargo": "chefe de cozinha", "id":1010, "salário": 10000},
+    { "nome": "Marisa", "cargo": "chefe de cozinha", "id":1010, "salário": 10000},
+    { "nome": "Marisa", "cargo": "chefe de cozinha", "id":1010, "salário": 10000},
+
+    { "nome": "Maria", "cargo": "ajudante de cozinha", "id":1010, "salário": 10000},
+    { "nome": "Maria", "cargo": "ajudante de cozinha", "id":1010, "salário": 10000},
+    { "nome": "Maria", "cargo": "ajudante de cozinha", "id":1010, "salário": 10000},
+
+    { "nome": "Maria", "cargo": "recepcionista", "id":1010, "salário": 10000},
+    { "nome": "Maria", "cargo": "recepcionista", "id":1010, "salário": 10000},
+    { "nome": "Maria", "cargo": "recepcionista", "id":1010, "salário": 10000},
+
+    { "nome": "Marisa", "cargo": "atendente", "id":1010, "salário": 10000},
+    { "nome": "Marisa", "cargo": "atendente", "id":1010, "salário": 10000},
+    { "nome": "Marisa", "cargo": "atendente", "id":1010, "salário": 10000},
+    { "nome": "Marisa", "cargo": "atendente", "id":1010, "salário": 10000},
+   
+    { "nome": "Maria", "cargo": "garçom", "id":1010, "salário": 10000},
+    { "nome": "Maria", "cargo": "garçom", "id":1010, "salário": 10000},
+    { "nome": "Maria", "cargo": "garçom", "id":1010, "salário": 10000},
+    { "nome": "Maria", "cargo": "garçom", "id":1010, "salário": 10000},
+
+
+    { "nome": "Maria", "cargo": "bar man", "id":1010, "salário": 10000},
+    { "nome": "Maria", "cargo": "bar man", "id":1010, "salário": 10000},
+    { "nome": "Maria", "cargo": "bar man", "id":1010, "salário": 10000}
+
+    
+],
+
+    "clientes":[
+        { "nome": "Matheus", "cpf": "111.111.111-40","id":1, "telefone": "999125612"},
+        { "nome": "Matheus", "cpf": "111.111.111-40","id":1, "telefone": "999125612"},
+        { "nome": "Matheus", "cpf": "111.111.111-40","id":1, "telefone": "999125612"},
+        { "nome": "Matheus", "cpf": "111.111.111-40","id":1, "telefone": "999125612"}
+
+    ],
+
+    "bebidas":[
+        { "nome": "Matheus", "cpf": "111.111.111-40","id":1, "telefone": "999125612"},
+        { "nome": "Matheus", "cpf": "111.111.111-40","id":1, "telefone": "999125612"},
+        { "nome": "Matheus", "cpf": "111.111.111-40","id":1, "telefone": "999125612"},
+        { "nome": "Matheus", "cpf": "111.111.111-40","id":1, "telefone": "999125612"}
+
+    ],
+
+ 
+    "comidas":[
+    { "nome": "Matheus", "cpf": "111.111.111-40","id":1, "telefone": "999125612"},
+    { "nome": "Matheus", "cpf": "111.111.111-40","id":1, "telefone": "999125612"},
+    { "nome": "Matheus", "cpf": "111.111.111-40","id":1, "telefone": "999125612"},
+    { "nome": "Matheus", "cpf": "111.111.111-40","id":1, "telefone": "999125612"}
+
+]
+
+} 
